@@ -2,7 +2,8 @@
 Like Reddit Enhancement Suite, but with more goats
 
 ## About
-See <Voat.co/v/Enhancement>
+
+See [Voat.co/v/Enhancement](https://voat.co/v/Enhancement) for more info
 
 ## Build
 
