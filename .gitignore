@@ -1,0 +1,10 @@
+tmp/
+.idea/
+.vscode/
+
+# vim and emacs
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*~
+# session
+Session.vim
