@@ -1,4 +1,7 @@
 # Voat-Enhancement-Suite
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jayands/Voat-Enhancement-Suite.svg)](https://greenkeeper.io/)
+
 Like Reddit Enhancement Suite, but with more goats
 
 ## About
